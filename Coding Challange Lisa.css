@@ -1,0 +1,87 @@
+body{
+  background-image: url(img/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+
+.Container{
+  margin: auto;
+  width: 1000px;
+  margin-top: 35px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+}
+
+
+header{
+  text-align: center;
+}
+
+img{
+  width: 200px;
+  padding-top: 60px;
+}
+
+#Titolo{
+  font-family: Arial;
+  color: #3AE822;
+}
+
+nav{
+  background-color: #3AE822;
+  padding: 12px;
+  text-align: center;
+  width: 800px;
+  margin: auto;
+
+}
+
+main{
+  padding-top: 20px;
+}
+
+.Prodotto{
+  font-size: 19px;
+  font-family: Arial;
+  color: white;
+
+
+}
+
+div.Descrizione{
+  font-size: 14px;
+  font-family: Arial;
+  color: white;
+}
+
+div.Ricarica{
+  width: 260px;
+  padding: 12px;
+  background-color: #F1ba52;
+  border-radius: 5px;
+}
+div.Ricarica2{
+  width: 470px;
+  padding: 12px;
+  background-color: #11d211;
+  border-radius: 5px;
+}
+
+div.Ricarica3{
+  width: 100px;
+  padding: 12px;
+  background-color: #Bd483d;
+  border-radius: 5px;
+}
+
+section{
+  padding-left: 88px;
+  padding-bottom: 40px;
+}
+
+#Spazio3{
+  padding-bottom: 100px;
+}
